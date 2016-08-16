@@ -1,0 +1,23 @@
+[1mdiff --git a/myApp/www/index.html b/myApp/www/index.html[m
+[1mindex 9913322..5ce398c 100644[m
+[1m--- a/myApp/www/index.html[m
+[1m+++ b/myApp/www/index.html[m
+[36m@@ -7,18 +7,8 @@[m
+ [m
+   <link href="lib/ionic/css/ionic.css" rel="stylesheet">[m
+   <link href="css/style.css" rel="stylesheet">[m
+[31m-[m
+[31m-  <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above[m
+[31m-  <link href="css/ionic.app.css" rel="stylesheet">[m
+[31m-  -->[m
+[31m-[m
+[31m-  <!-- ionic/angularjs js -->[m
+   <script src="lib/ionic/js/ionic.bundle.js"></script>[m
+[31m-[m
+[31m-  <!-- cordova script (this will be a 404 during development) -->[m
+   <script src="cordova.js"></script>[m
+[31m-[m
+[31m-  <!-- your app's js -->[m
+   <script src="js/app.js"></script>[m
+ </head>[m
+ <body ng-app="starter">[m

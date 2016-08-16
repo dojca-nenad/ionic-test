@@ -12,7 +12,6 @@
   <script src="js/app.js"></script>
 </head>
 <body ng-app="starter">
-<!-- Add something -->
 
 
 <ion-nav-bar class="bar-positive">
